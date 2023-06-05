@@ -1,1 +1,1 @@
-'This is my first project using vagrant'
+print the operating system name
